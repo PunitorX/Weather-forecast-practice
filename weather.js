@@ -1,6 +1,6 @@
 class Forecast {
   constructor(city, state, country) {
-    this.apiKey = '##########################';
+    this.apiKey = '#########################';
     this.city = city;
     this.state = state;
     this.country = country;
