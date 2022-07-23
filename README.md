@@ -1,6 +1,6 @@
-# Weather-API-practice
+# Weather-forecast-practice
 
-A basic weather API, using BootsWatch and Openweather.com. I plan on updating the application with local storage, and a few minor details.
+A basic weather forecast, using BootsWatch and Openweather.com. I plan on updating the application with local storage, and a few minor details.
 
 Technologies used: HTML, Bootswatch, JavaScript
 
